@@ -34,8 +34,6 @@
 * Звичайна бінарна хромосома дає результат кращий за всі інші;
 * Заміна інших показників не дає кращого результату.
 
-random seed = 2072442240
-
 З виведених фактів параметри пошуку мають вигляд:
 
 ![](https://github.com/Chertishcheva/KCIM_26/blob/main/lab3/addition/img/sear.jpg)
@@ -44,7 +42,7 @@ random seed = 2072442240
 
 ![](https://github.com/Chertishcheva/KCIM_26/blob/main/lab3/addition/img/sear_ga.jpg)
 
-Результат випадкового пошуку:
+Результат випадкового пошуку при random seed = 2072442240:
 
 ![](https://github.com/Chertishcheva/KCIM_26/blob/main/lab3/addition/img/sear_ran.jpg)
 
